@@ -1,0 +1,1 @@
+Reference for this demo project https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch
